@@ -47,7 +47,7 @@ EaCP/
 ├── inference_results/           # 校准数据（不上传）
 │   └── IN1k/imagenet-resnet50.npz
 │
-└── results/                     # 实验结果（不上传）
+└── results/                     # 实验结果
     ├── summary_table1.csv       #   Table 1 汇总
     ├── summary_table2_avg.csv   #   Table 2 汇总（平均）
     ├── summary_table2_detail.csv#   Table 2 详细（每个 severity）
