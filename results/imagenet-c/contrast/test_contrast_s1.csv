@@ -1,0 +1,3 @@
+update,cal_acc,cal_cov,cal_size,ood_acc,ood_cov,ood_size
+calibration,0.7527200000000001,0.89964,2.15484,,,
+none,,,,64.89399719238281,0.8363171355498721,2.6423233695652173
